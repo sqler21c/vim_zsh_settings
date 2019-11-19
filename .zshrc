@@ -15,7 +15,7 @@ ZSH_THEME="agnoster"
 # a theme from this variable instead of looking in ~/.oh-my-zsh/themes/
 # If set to an empty array, this variable will have no effect.
 # ZSH_THEME_RANDOM_CANDIDATES=( "robbyrussell" "agnoster" )
-
+#test
 # Uncomment the following line to use case-sensitive completion.
 # CASE_SENSITIVE="true"
 
